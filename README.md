@@ -8,7 +8,7 @@
 Let's start with the basic:
 What is Fellowship?
 
-IncubateIND Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow. The program is an experience that aims at encouraging and nurturing a community of learners and building a strong foundation of competitive, self-reliant individuals.
+Hack2skill Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow. The program is an experience that aims at encouraging and nurturing a community of learners and building a strong foundation of competitive, self-reliant individuals.
 
 Let's dive deep into what we are looking for:
 1. It's a Community platform for 3 main uses.
